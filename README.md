@@ -12,7 +12,9 @@ Model Used :
 A linear regression model that contains more than one predictor variable is called a multiple
 linear regression model. The following model is a multiple linear regression model with three
 predictor variables, X1 ,X2 ,X3
+
 Y = b 0 + b 1 X 1 + b 2 X 2 + b 3 X 3
+
 Y is the value of the Dependent variable (Y), what is being predicted or explained
 b 0 is the Constant or intercept
 b 1 is the Slope (Beta coefficient) for X 1
@@ -24,6 +26,7 @@ X 3 Third independent variable that is explaining the variance in Y
 
 2) Non Linear Regression (Log) :
 Log(Y) = b 0 + b 1 Log( X 1 ) + b 2 Log(X 2 ) + b 3 Log(X 3 )
+
 Y is the value of the Dependent variable (Y), what is being predicted or explained
 b 0 is the Constant or intercept
 b 1 is the Slope (Beta coefficient) for Log( X 1 )
@@ -40,7 +43,9 @@ TECHNOLOGIES USED:
 DATA EXTRACTION:
 1) Twython (open source library in python) - https://twython.readthedocs.org/en/latest/
 for extracting Retweet Data
+
 2) Twitter API
+
 3) Tweepy (open source library in python) - https://github.com/tweepy/tweepy
 
 Method Followed –
