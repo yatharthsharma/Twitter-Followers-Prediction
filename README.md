@@ -4,6 +4,8 @@ Problem Statement :
 Creation of a regression model that can predict the number of followers of a user on twitter,
 given a twitter handle.
 
+// Please see the report for detailed overview of the project
+
 Model Used :
 
 1) Multiple Linear Regression
